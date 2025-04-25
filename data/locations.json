@@ -1,0 +1,32 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "title": "Stockholm City Hall",
+      "latitude": 59.3274,
+      "longitude": 18.0544,
+      "category": "landmarks"
+    },
+    {
+      "id": "2",
+      "title": "Vasa Museum",
+      "latitude": 59.3280,
+      "longitude": 18.0914,
+      "category": "museums"
+    },
+    {
+      "id": "3",
+      "title": "Gamla Stan",
+      "latitude": 59.3254,
+      "longitude": 18.0686,
+      "category": "historic"
+    },
+    {
+      "id": "4",
+      "title": "Skansen",
+      "latitude": 59.3270,
+      "longitude": 18.1057,
+      "category": "attractions"
+    }
+  ]
+}
